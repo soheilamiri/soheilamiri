@@ -1,15 +1,87 @@
-Hello Everyone! 👋
+# Hi there, I'm Soheil Darvish Amiri 👋
 
-I'm a Senior IT infrastructure Engineer with over 10 years of hands-on experience Designing and managing Enterprise and Data center services , OpenStack Cloud Platform, Vmware, Microsoft , and Linux administration. My expertise spans leadership, architecture, planning, deployment, automation, maintenance, and troubleshooting of digital services. I excel in steering highly available and complex On-premise and hybrid infrastructures built on OpenStack and Vmware, collaborating seamlessly with cross-functional teams to achieve business objectives.
+### Senior IT Infrastructure Engineer | Future Azure Solution Architect
 
-🔭 Currently, I am immersed in working on cloud infrastructures, focusing on Azure, Kubernetes, and OpenStack.
+I am an experienced IT Infrastructure Engineer with strong hands-on expertise in enterprise infrastructure, virtualization, automation, networking, and monitoring solutions.
 
-🌱 My ongoing learning journey includes Azure, Kubernetes, BGP, EVPN, OpenStack, and networking.
+Currently, I am focusing on expanding my skills in Cloud Engineering, Azure Administration, and CI/CD pipelines to transition into a Solution Architecture role in an international environment.
 
-👯 I am eager to connect with individuals interested in collaborating on my projects, which involve integrating new services on cloud environments such as VPNaaS, infrastructure multisite, and DPDK on the cloud.
+---
 
-💬 Feel free to contact me for discussions on cloud computing and Linux.
+## 🚀 About Me
 
-📫 You can contact me at soheil.amiri@live.com
+- 💼 Senior IT Infrastructure Engineer
+- ☁️ Learning and building Cloud Engineering skills on Microsoft Azure
+- ⚙️ Interested in Infrastructure Automation & DevOps practices
+- 🎯 Career Goal: Become an Azure Cloud Solution Architect
+- 🌍 Based in Iran, prepare for migration to Europe 
 
-Looking forward to engaging with the community and exploring exciting opportunities!
+---
+
+# 🛠 Tech Stack
+
+## ☁️ Virtualization & Cloud
+- VMware vSphere
+- Microsoft Azure (Learning Path)
+
+## 🖥 Microsoft Infrastructure
+- Active Directory
+- Group Policy
+- DNS
+- DHCP
+- Hyper-v
+- Windows Server Administration
+
+## 🌐 Networking
+- Cisco Switching (Catalysts and Nexus)
+- Cisco Routing (BGP,OSPF)
+- Firewall Administration
+
+## 🤖 Automation & Infrastructure as Code
+- PowerShell
+- Terraform
+- Ansible
+
+## 📊 Monitoring & Observability
+- Prometheus
+- Grafana
+- SolarWinds
+
+## 🐧 Linux & Containers
+- Linux Administration
+- Docker
+- Bind DNS
+
+---
+
+# 📚 Current Learning Path
+
+- Azure Administration (AZ-104)
+- Azure Architecture
+- CI/CD Pipelines
+- GitHub Actions
+- Kubernetes Fundamentals
+- Infrastructure as Code (Terraform on Azure)
+
+---
+
+# 🎯 2026 Goals
+
+- Achieve Azure Certifications
+- Build real-world cloud projects
+- Master CI/CD workflows
+- Transition into Cloud/Solution Architecture
+- Contribute to Open Source Infrastructure Projects
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/soheil-darvish-amiri-4bb785218]
+- Email: [soheil.amiri@live.com]
+
+---
+
+# ⚡ Personal Vision
+
+I believe modern infrastructure is moving toward automation, scalability, and cloud-native architecture. My goal is to combine enterprise infrastructure experience with cloud technologies to design reliable and scalable solutions for global organizations.
