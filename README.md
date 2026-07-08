@@ -24,18 +24,18 @@ Currently, I am focusing on expanding my skills in Cloud Engineering, Azure Admi
 - VMware vSphere
 - Microsoft Azure (Learning Path)
 
-## 🖥 Microsoft Infrastructure
+## 🖥 Core Infrastructure Service
 - Active Directory
-- Group Policy
 - DNS
 - DHCP
-- Hyper-v
-- Windows Server Administration
+- Vmware Vsphere
+- Windows\Linux Server Administration
 
 ## 🌐 Networking
 - Cisco Switching (Catalysts and Nexus)
 - Cisco Routing (BGP,OSPF)
-- Firewall Administration
+- Firewall (Cisco Firepower, Fortigate) Administration
+- Load Balancing Service
 
 ## 🤖 Automation & Infrastructure as Code
 - PowerShell
@@ -47,10 +47,9 @@ Currently, I am focusing on expanding my skills in Cloud Engineering, Azure Admi
 - Grafana
 - SolarWinds
 
-## 🐧 Linux & Containers
-- Linux Administration
-- Docker
-- Bind DNS
+## 🐧 Containerazation Service
+- Docker Service
+- Kubernetes
 
 ---
 
