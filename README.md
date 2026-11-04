@@ -41,6 +41,7 @@ Currently, I am focusing on expanding my skills in Cloud Engineering, Azure Admi
 - PowerShell
 - Terraform
 - Ansible
+- Python
 
 ## 📊 Monitoring & Observability
 - Prometheus
