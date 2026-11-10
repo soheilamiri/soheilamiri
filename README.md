@@ -2,10 +2,15 @@
 
 ### Senior IT Infrastructure Engineer | Future Azure Solution Architect
 
-I am an experienced IT Infrastructure Engineer with strong hands-on expertise in enterprise infrastructure, virtualization, automation, networking, and monitoring solutions.
+Senior IT Infrastructure Engineer with a Master’s degree in Computer Science and extensive experience in enterprise IT environments. Currently working at FANAP Infrastructure, focusing on cloud infrastructure, hybrid environments, and enterprise-grade systems.
 
-Currently, I am focusing on expanding my skills in Cloud Engineering, Azure Administration, and CI/CD pipelines to transition into a Solution Architecture role in an international environment.
+My expertise includes Windows and Linux Server, Active Directory, DNS, DHCP, virtualization technologies such as VMware and Hyper-V, and enterprise networking with Cisco platforms (BGP, OSPF,switching). I also work with monitoring solutions including SolarWinds, Prometheus, and Grafana to ensure high availability and operational stability.
 
+Familiar with hardware maintenance include Server HPE,Supermicro, cisco Switches catalyst and nexus also fortinet firewalls.
+
+I have hands-on experience with PowerShell automation, infrastructure configuration and maintenance, and supporting scalable production environments. My background combines strong operational infrastructure knowledge with a growing focus on cloud strategy and enterprise IT optimization.
+
+Self-Studied CCNP Enterprise Core, CCNP Data Center, MCSA and Microsoft Azure AZ-900, AZ-104, I am motivated to design secure, scalable, and reliable infrastructure solutions that align technology with business needs.
 ---
 
 ## 🚀 About Me
